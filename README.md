@@ -1,6 +1,6 @@
 # CVE Report
 
-## Prison Management System
+## Prison Management System(pms)
 ### Info
 #### Prison Management System 1.0 - SQL Injection<br>
 #### Vendor Homepage : https://www.sourcecodester.com/ <br>
